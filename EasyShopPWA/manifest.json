@@ -1,0 +1,22 @@
+{
+    "name": "EasyShop",
+    "short_name": "EasyShop",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#f4f4f4",
+    "theme_color": "#4CAF50",
+    "icons": [
+        {
+            "src": "list128x128.png",
+            "sizes": "128x128",
+            "type": "image/png"
+        },
+        {
+            "src": "list512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
+
+
